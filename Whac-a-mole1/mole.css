@@ -2,9 +2,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     background: url("./images/mario.png");
-    background-size: cover;
+    background-size:auto;
 }
-
 #board {
     width: 540px;
     height: 540px;
